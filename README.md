@@ -71,4 +71,4 @@ This documentation is licensed under the **Apache License 2.0**, unless stated o
 
 ---
 
-**Habits Factory** — *Build habits with intent. Measure with rigor.*
+> 🌱 **HabitsFactory** — *Build habits. Measure progress. Master consistency.*
