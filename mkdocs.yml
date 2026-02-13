@@ -8,6 +8,7 @@ repo_url: https://github.com/habitsfactory/habitsfactory-app
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -87,4 +88,4 @@ extra:
       link: https://github.com/habitsfactory/habitsfactory-app
   generator: false
 
-copyright: Copyright &copy; 2024 Habits Factory
+copyright: Copyright &copy; 2026 Habits Factory
